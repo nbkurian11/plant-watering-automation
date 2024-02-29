@@ -1,4 +1,4 @@
-# plantwateringautomation
+# Automated Plant Watering using MATLAB and Java
 Developed an automated plant watering system using the Grove Kit for Arduino. 
 Created two different version using MATLAB and java respectively.
 Additionally, programmed the code to display a moisture/time graph.
